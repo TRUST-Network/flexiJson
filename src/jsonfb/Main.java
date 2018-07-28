@@ -34,7 +34,7 @@ import java.security.cert.*;
  */
 public class Main {
  static String sURL = "https://vps.trustnetwork.cz:5434/c/trust_network_s_r_o__2018_03_19_1340/adresar.json";
- static String userpass = "test_api:4545cdlhds544";
+ static String userpass = "test_api:45xsk45cdlhds544jkkkdew;d";
  
     /**
      * @param args the command line arguments
